@@ -1,0 +1,12 @@
+# solution files
+*.py
+*.pas
+*.cpp
+*.c
+*.pdf
+
+# data files
+*.[0-9]
+*.[0-9][0-9]
+
+.ipynb_checkpoints

@@ -1,4 +1,4 @@
-# COCI 2006/07 contest \#1
+# COCI 2006/07 contest 1
 
 On the COCI website you can find:
 
@@ -18,5 +18,5 @@ My Python implementations are:
 
 - [Modulo](modulo.ipynb)
 - [Herman](herman.ipynb)
-- [Ovkiri](ovkiri.ipynb)
+- [Okviri](okviri.ipynb)
 - [Slikar](slikar.ipynb)
